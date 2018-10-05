@@ -1,0 +1,1 @@
+Este es el documento 5. Se agrega a .gitignore

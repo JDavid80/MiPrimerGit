@@ -1,0 +1,1 @@
+Este es el documento N. 1 y se modifica para pruebas. Se agregó a .gitignore
