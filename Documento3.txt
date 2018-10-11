@@ -1,1 +1,7 @@
 Este es el documento N. 3 modificado. Se modifica para ver cambios en git log -p.
+En este caso
+se ingresan varias lineas
+para poder ver que cada linea
+es un mas.
+De igual modo por cada linea que se elimina
+es un menos
