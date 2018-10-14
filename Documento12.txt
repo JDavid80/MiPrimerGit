@@ -1,2 +1,3 @@
 Se modifica Docum12.txt....
 Se publica la versión 1.0
+Se publica la versión 2.0
