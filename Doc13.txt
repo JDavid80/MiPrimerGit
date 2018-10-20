@@ -1,2 +1,2 @@
-Archivo de Prueba. Archivo se modifica para ver cambios en Github.
-..
+Archivo de Prueba. Archivo se modifica para ver cambios en Github. 
+Se hacen cambios y se dejan en working directory para ver que sucede al cambiar de rama
