@@ -1,1 +1,4 @@
-Linea 1 añadida en Master. Pendiente para fusionar.
+Linea 1 añadida en Master.
+Linea 1 añadida en RamaTest. 
+Archivo fusionado manualmente.	
+
