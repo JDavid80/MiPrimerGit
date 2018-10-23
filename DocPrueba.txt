@@ -1,4 +1,5 @@
 Linea 1 añadida en Master.
 Linea 1 añadida en RamaTest. 
-Archivo fusionado manualmente.	
+Archivo fusionado manualmente. Se agrega una nueva linea.
+
 
